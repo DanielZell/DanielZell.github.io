@@ -1,0 +1,121 @@
+{
+  "tabs": {
+    "discover": "Entdecken",
+    "search": "Suche",
+    "projects": "Projekte",
+    "messages": "Nachrichten",
+    "profile": "Profil",
+    "applicants": "Bewerber"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "language": "Sprache",
+    "languageSystem": "System",
+    "languageGerman": "Deutsch",
+    "languageEnglish": "English"
+  },
+  "menu": {
+    "options": "Optionen",
+    "editProfile": "Profil bearbeiten",
+    "goToProfileTab": "Zum Profil-Tab",
+    "settings": "Einstellungen",
+    "logout": "Logout",
+    "cancel": "Abbrechen"
+  },
+  "messages": {
+    "title": "Nachrichten",
+    "emptyTitle": "Noch keine Nachrichten",
+    "emptyText": "Starte einen neuen Chat mit einem Unternehmen oder teile ein Projekt.",
+    "newChat": "Neuen Chat starten",
+    "discover": "Entdecken",
+    "projects": "Projekte",
+    "delete": "Löschen",
+    "deleteConfirmTitle": "Chat löschen?",
+    "deleteConfirmText": "Der Chat wird nur für dich entfernt.",
+    "deletedSuccess": "Chat wurde für dich gelöscht.",
+    "deleteError": "Chat konnte nicht gelöscht werden.",
+    "loadError": "Nachrichten konnten nicht geladen werden.",
+    "youPrefix": "Sie"
+  },
+  "chat": {
+    "title": "Chat",
+    "emptyTitle": "Noch keine Nachricht",
+    "emptyText": "Schreib den ersten Text.",
+    "share": "Teilen",
+    "send": "Senden",
+    "inputPlaceholder": "Nachricht schreiben..."
+  },
+  "newChat": {
+    "title": "Neuen Chat starten",
+    "segmentCompanies": "Unternehmen",
+    "segmentConnections": "Connections",
+    "searchPlaceholder": "Suchen...",
+    "avatarAlt": "Avatar",
+    "roleCompany": "Unternehmen",
+    "roleConnection": "Connection",
+    "loadError": "Chat-Liste konnte nicht geladen werden.",
+    "startError": "Chat konnte nicht gestartet werden.",
+    "emptyCompaniesTitle": "Keine Unternehmen gefunden",
+    "emptyCompaniesText": "Passe deine Suche an oder starte einen Chat über den Unternehmens-Tab.",
+    "emptyConnectionsTitle": "Keine Connections gefunden",
+    "emptyConnectionsText": "Vernetze dich zuerst mit Nutzern, um hier einen Chat zu starten."
+  },
+  "discover": {
+    "title": "Entdecken",
+    "storyViewer": {
+      "matchTitle": "Perfekt für dein Studium!",
+      "matchSubtitle": "Dieses Projekt passt hervorragend zu deinen Vorlesungen:",
+      "matchLectures": "Vorlesungen:",
+      "matchSkills": "Überschneidende Kompetenzen:",
+      "payment": "Bezahlung",
+      "location": "Ort",
+      "duration": "Dauer",
+      "applicants": "Bewerber",
+      "aboutProject": "Über das Projekt",
+      "requirements": "Anforderungen",
+      "applyNow": "Jetzt bewerben",
+      "applyPending": "Beworben",
+      "applyAccepted": "Angenommen",
+      "applyRejected": "Abgelehnt",
+      "statusNotApplied": "Nicht beworben",
+      "statusPending": "Beworben",
+      "statusAccepted": "Angenommen",
+      "statusRejected": "Abgelehnt"
+    }
+  },
+  "search": {
+    "title": "Suche"
+  },
+  "projects": {
+    "title": "Projekte",
+    "segmentApplied": "Beworben",
+    "segmentActive": "Aktiv",
+    "segmentCompleted": "Abgeschlossen",
+    "segmentBookmarked": "Vorgemerkt",
+    "empty": {
+      "applied": {
+        "kicker": "Bewerbungen",
+        "title": "Noch keine offenen Bewerbungen",
+        "description": "Bewirb dich auf spannende Projekte und verfolge hier den Status deiner Anfragen."
+      },
+      "active": {
+        "kicker": "Aktiv",
+        "title": "Noch keine laufenden Projekte",
+        "description": "Sobald eine Bewerbung angenommen wurde, erscheint dein Projekt hier."
+      },
+      "completed": {
+        "kicker": "Abgeschlossen",
+        "title": "Noch keine abgeschlossenen Projekte",
+        "description": "Abgeschlossene Projekte findest du hier für einen schnellen Rückblick."
+      },
+      "bookmarked": {
+        "kicker": "Vorgemerkt",
+        "title": "Noch keine Favoriten",
+        "description": "Speichere interessante Projekte, indem du auf das Herz-Icon klickst. So findest du sie später schnell wieder!"
+      }
+    }
+  },
+  "profile": {
+    "title": "Profil"
+  }
+}

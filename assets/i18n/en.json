@@ -1,0 +1,121 @@
+{
+  "tabs": {
+    "discover": "Discover",
+    "search": "Search",
+    "projects": "Projects",
+    "messages": "Messages",
+    "profile": "Profile",
+    "applicants": "Applicants"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "languageSystem": "System",
+    "languageGerman": "Deutsch",
+    "languageEnglish": "English"
+  },
+  "menu": {
+    "options": "Options",
+    "editProfile": "Edit profile",
+    "goToProfileTab": "Go to profile tab",
+    "settings": "Settings",
+    "logout": "Logout",
+    "cancel": "Cancel"
+  },
+  "messages": {
+    "title": "Messages",
+    "emptyTitle": "No messages yet",
+    "emptyText": "Start a new chat with a company or share a project.",
+    "newChat": "Start new chat",
+    "discover": "Discover",
+    "projects": "Projects",
+    "delete": "Delete",
+    "deleteConfirmTitle": "Delete chat?",
+    "deleteConfirmText": "The chat will only be removed for you.",
+    "deletedSuccess": "Chat was deleted for you.",
+    "deleteError": "Chat could not be deleted.",
+    "loadError": "Messages could not be loaded.",
+    "youPrefix": "You"
+  },
+  "chat": {
+    "title": "Chat",
+    "emptyTitle": "No message yet",
+    "emptyText": "Write the first message.",
+    "share": "Share",
+    "send": "Send",
+    "inputPlaceholder": "Write message..."
+  },
+  "newChat": {
+    "title": "Start new chat",
+    "segmentCompanies": "Companies",
+    "segmentConnections": "Connections",
+    "searchPlaceholder": "Search...",
+    "avatarAlt": "Avatar",
+    "roleCompany": "Company",
+    "roleConnection": "Connection",
+    "loadError": "Could not load chat list.",
+    "startError": "Could not start chat.",
+    "emptyCompaniesTitle": "No companies found",
+    "emptyCompaniesText": "Adjust your search or start a chat from the companies tab.",
+    "emptyConnectionsTitle": "No connections found",
+    "emptyConnectionsText": "Connect with users first to start a chat here."
+  },
+  "discover": {
+    "title": "Discover",
+    "storyViewer": {
+      "matchTitle": "Perfect for your studies!",
+      "matchSubtitle": "This project fits your lectures very well:",
+      "matchLectures": "Lectures:",
+      "matchSkills": "Overlapping competencies:",
+      "payment": "Payment",
+      "location": "Location",
+      "duration": "Duration",
+      "applicants": "Applicants",
+      "aboutProject": "About the project",
+      "requirements": "Requirements",
+      "applyNow": "Apply now",
+      "applyPending": "Applied",
+      "applyAccepted": "Accepted",
+      "applyRejected": "Rejected",
+      "statusNotApplied": "Not applied",
+      "statusPending": "Applied",
+      "statusAccepted": "Accepted",
+      "statusRejected": "Rejected"
+    }
+  },
+  "search": {
+    "title": "Search"
+  },
+  "projects": {
+    "title": "Projects",
+    "segmentApplied": "Applied",
+    "segmentActive": "Active",
+    "segmentCompleted": "Completed",
+    "segmentBookmarked": "Bookmarked",
+    "empty": {
+      "applied": {
+        "kicker": "Applications",
+        "title": "No open applications yet",
+        "description": "Apply to exciting projects and track the status of your requests here."
+      },
+      "active": {
+        "kicker": "Active",
+        "title": "No ongoing projects yet",
+        "description": "As soon as an application is accepted, your project appears here."
+      },
+      "completed": {
+        "kicker": "Completed",
+        "title": "No completed projects yet",
+        "description": "Completed projects appear here for a quick review."
+      },
+      "bookmarked": {
+        "kicker": "Bookmarked",
+        "title": "No favorites yet",
+        "description": "Save interesting projects by clicking the heart icon. This way you can find them again quickly later."
+      }
+    }
+  },
+  "profile": {
+    "title": "Profile"
+  }
+}
